@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Gimkit Finder",
+  "version": "1.0.0",
+  "description": "A chrome extension that allows you to find active Gimkit game codes",
+  "permissions": ["activeTab", "storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.gimkit.com/join*"],
+      "js": ["src/content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "src/popup.html",
+    "default_icon": {"32": "icon.png"}
+  },
+  "icons": {
+    "256": "icon.png"
+  }
+}
