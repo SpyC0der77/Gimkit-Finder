@@ -4,7 +4,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Fetch and display the codes
   chrome.storage.sync.get({ foundCodes: [] }, function (result) {
-    const foundCodes = result.foundCodes;
+    let foundCodes = result.foundCodes;
+    foundCodes = foundCodes.reverse();
+
 
     if (foundCodes.length === 0) {
       codeList.innerHTML =
