@@ -50,7 +50,6 @@ When the Chrome Extension gets approved on the [Chrome Webstore](https://chromew
 ## Permissions
 
 - **Storage**: The extension uses Chrome's storage to save found game codes locally in the user's browser.
-- **ActiveTab**: Required to interact with the Gimkit Join page and input found game codes.
 - **Network Requests**: The extension sends requests to Gimkit's API to search for active game codes.
 
 ## Disclaimer
