@@ -27,7 +27,7 @@ This Chrome extension allows users to quickly find and join active Gimkit games 
 
 2. **Graceful Error Handling**: The extension checks for errors during the search process and handles them gracefully. If an error occurs while fetching game codes (such as network issues or rate limits), the extension will log the error and stop execution without causing disruptions to the browser.
 
-3. **No Unauthorized Access**: The extension does not access any personal information or require any unnecessary permissions. It only interacts with Gimkit’s publicly available API endpoints for searching game codes and uses the browser’s storage to keep found codes locally.
+3. **No Unauthorized Access**: The extension does not access any personal information or require any unnecessary permissions. It only interacts with Gimkit’s API endpoints for searching game codes and uses the browser’s storage to keep found codes locally.
 
 ## How to Use
 
@@ -55,7 +55,7 @@ When the Chrome Extension gets approved on the [Chrome Webstore](https://chromew
 
 ## Disclaimer
 
-This extension is intended for educational and entertainment purposes only. It does not bypass any security measures implemented by Gimkit. The extension merely interacts with Gimkit's public API and respects all rate limits to ensure responsible use.
+This extension is intended for educational and entertainment purposes only. It does not bypass any security measures implemented by Gimkit. The extension merely interacts with Gimkit's API and respects all rate limits to ensure responsible use.
 
 ---
 
