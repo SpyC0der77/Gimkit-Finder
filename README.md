@@ -54,7 +54,7 @@ When the Chrome Extension gets approved on the [Chrome Webstore](https://chromew
 
 ## Disclaimer
 
-This extension is intended for educational and entertainment purposes only. It does not bypass any security measures implemented by Gimkit. The extension merely interacts with Gimkit's API and respects all rate limits to ensure responsible use.
+This extension is intended for educational and entertainment purposes only. It does not bypass any security measures implemented by Gimkit. The extension merely interacts with Gimkit's API and respects all rate limits to ensure responsible use. I am not liable for any direct, indirect, consequential, incidental, or special damages arising out of or in any way connected with the use/misuse or inability to use this software.
 
 ---
 
