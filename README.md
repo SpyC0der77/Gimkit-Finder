@@ -31,7 +31,7 @@ This Chrome extension allows users to quickly find and join active Gimkit games 
 
 ## How to Use
 
-1. Install the extension from the Chrome Web Store.
+1. Install the extension.
 2. Visit the [Gimkit Join Game page](https://www.gimkit.com/join).
 3. Click the "Find active game" button added by the extension. It will search for an active game code and automatically enter it into the input field.
 4. Alternatively, open the extension's popup to view previously found game codes. You can click any code to join the game, or clear the codes using the "Clear Codes" button.
